@@ -1,0 +1,26 @@
+#compiled files
+/bin/
+
+#eclipse classpath
+.classpath
+
+#eclipse project config file
+.project
+
+#eclipse IDE settings
+.settings
+
+#.class files and .jar files
+bin/
+*.class
+*.jar
+
+# maven
+target/
+
+#log and temp files
+*.log
+*.temp
+
+#external libraries
+lib/
