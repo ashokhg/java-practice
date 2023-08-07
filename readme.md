@@ -1,8 +1,8 @@
-### Java practice programms and problems
+# Java practice programms and problems
 
 ## This repo includes the programms and problems I'have done to master core Java and Datastructure
 
-# The concepts which I have covered are
+### The concepts which I have covered are
 
 * Arrays
 * Multidimensional Arrays
